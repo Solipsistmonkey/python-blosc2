@@ -5,3 +5,5 @@ psutil
 msgpack
 torch
 #tensorflow  # too large dependency; torch should be enough for testing
+py-cpuinfo
+ndindex
